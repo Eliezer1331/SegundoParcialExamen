@@ -9,6 +9,7 @@ namespace Datos.Entidades
     public class Producto
     {
 
+
         public string Codigo { get; set; }
         public string NombreProducto { get; set; }
         public int Cantidad { get; set; }
